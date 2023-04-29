@@ -1,0 +1,21 @@
+html {
+    background-color: #707542;
+  }
+h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: "Tahoma", sans-serif;
+}
+
+div{
+    font-size: 10px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+#caja{
+    background-color:khaki;
+    position: absolute;
+  top: 10%;
+  left: 15%;
+
+}
